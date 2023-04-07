@@ -16,3 +16,9 @@ public:
 private:
 	vector<Point> mcPoints;
 };
+
+//overload plus operator in polygon to add points together to make a polygon (3 or more points)
+//another plus operator to add a point to polygon
+//insertion and extraction overloaded operators
+//perimeter fucntion that uses distance function
+//subtraction operator to take away a point
